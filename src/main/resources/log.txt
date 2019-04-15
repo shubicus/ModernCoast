@@ -1,0 +1,10 @@
+2019-02-16 17:41:51 [main] MainJsoup.main()
+INFO: [TEST] == The jod has started.
+2019-02-16 17:41:55 [main] MainJsoup.main()
+INFO: [TEST] == Collecting cities is finished.
+2019-02-16 17:43:44 [main] MainJsoup.main()
+INFO: [TEST] == Collecting URLs is finished.
+2019-02-16 22:06:10 [main] ke.co.MyFileWriter.writeToExcel()
+INFO: [TEST] == Writing data to File.
+2019-02-16 22:06:11 [main] ke.co.MyFileWriter.writeWorkbookToFile()
+INFO: [TEST] == Done.
